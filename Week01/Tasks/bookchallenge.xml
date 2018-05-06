@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<bookstore>
+
+<book category="fantasy">
+<title language="English">Harry Potter and the Philosopher's Stone</title>
+<author>JK Rowling</author>
+<year>1999</year>
+<price>10</price>
+</book>
+
+<book category="thriller">
+<title language="English">10 Little Indians</title>
+<author>Agatha Christie</author>
+<year>1910's</year>
+<price>0</price>
+</book>
+
+<book category="futurism">
+<title language="日本語">世界の終りとハードボイルド・ワンダーランド</title>
+<author>村上 春樹</author>
+<year>1991</year>
+<price>20</price>
+</book>
+
+</bookstore>
